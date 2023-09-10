@@ -137,3 +137,8 @@ button:hover {
   margin: 15px 0;
   text-align: center;
 }
+@media (max-width: 480px) {
+  .wrapper {
+    width: 90%;
+  }
+}
