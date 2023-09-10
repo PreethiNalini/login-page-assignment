@@ -140,9 +140,6 @@ button:hover {
 }
 @media (max-width: 480px) {
   .wrapper {
-    width:80%;
+    width:85%;
   }
-  .form-wrapper-sign-in{
-    width:90%;
-}
 }
